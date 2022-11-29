@@ -275,3 +275,4 @@ This is a list of Internet of Thing related papers.
 
 # Thanks
 Thanks for the contribution of all members from "物联网论文分享群".
+![avatar](https://github.com/XiangchunChen/AIoT-Paper/blob/master/IoT%20Paper/pic1.jpg)
