@@ -2,11 +2,12 @@
 This is a list of Internet of Thing related papers.
 
 ## Contents
-- [Papers](#papers)
-  - [Survey](#survey)
-  - [Resource Management](#Resource Management)
-  - [Federated Learning](#Federated Learning)
-  - [Others] (Others)
+- [Papers]
+  - [Survey]
+  - [Video] 
+  - [Resource Management]
+  - [Federated Learning]
+  - [Others]
 
 ### Survey
 1.Y. Li, J. Fan, Y. Wang and K. -L. Tan, "Influence Maximization on Social Graphs: A Survey," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 10, pp. 1852-1872, 1 Oct. 2018, doi: 10.1109/TKDE.2018.2807843.
@@ -14,7 +15,7 @@ This is a list of Internet of Thing related papers.
 2.Alcaraz, C., & Lopez, J. (2022). Digital Twin: A Comprehensive Survey of Security Threats. IEEE Communications Surveys & TutorialsDigital Twinsurvey，digital twin
 
 
-### Video Related
+### Video
 1.NSDI22 Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers
 
 2.Hwang J, Kim M, Kim D, et al. {CoVA}: Exploiting {Compressed-Domain} Analysis to Accelerate Video Analytics[C]//2022 USENIX Annual Technical Conference (USENIX ATC 22). 2022: 707-722.
