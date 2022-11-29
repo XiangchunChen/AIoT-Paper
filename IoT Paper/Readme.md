@@ -34,7 +34,7 @@ This is a list of Internet of Thing related papers.
 ### Resource Management
 1.L. Huang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks," in IEEE Transactions on Mobile Computing, vol. 19, no. 11, pp. 2581-2593, 1 Nov. 2020, doi: 10.1109/TMC.2019.2928811.
 
-2.Z. Wang, H. Xu, J. Liu, H. Huang, C. Qiao and Y. Zhao, "Resource-Efficient Federated Learning with Hierarchical Aggregation in Edge Computing," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications, 2021, pp. 1-10, doi: 10.1109/INFOCOM42981.2021.9488756. 针对FL中stragglers，通过平衡聚类将边缘节点划分为K集群，通过同步方法集群聚合，而所有集群头以异步方式执行全局聚合，并确定具有资源约束的最佳集群结构（即K的最佳值）
+2.Z. Wang, H. Xu, J. Liu, H. Huang, C. Qiao and Y. Zhao, "Resource-Efficient Federated Learning with Hierarchical Aggregation in Edge Computing," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications, 2021, pp. 1-10, doi: 10.1109/INFOCOM42981.2021.9488756. 
 
 3.RISC: Resource-Constrained Urban Sensing Task Scheduling Based on Commercial Fleets
 
