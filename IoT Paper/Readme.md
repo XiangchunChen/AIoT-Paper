@@ -273,6 +273,6 @@ This is a list of Internet of Thing related papers.
 
 101. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning ICML2022
 
-# Thanks
-Thanks for the contribution of all members from "物联网论文分享群".
-![avatar](https://github.com/XiangchunChen/AIoT-Paper/blob/master/IoT%20Paper/pic1.jpg)
+# Contributor List
+Thanks for the contribution of all members from "物联网论文分享群". Please contact me if I missed to add any contributor.
+![](https://github.com/XiangchunChen/AIoT-Paper/blob/master/IoT%20Paper/pic1.jpg)
