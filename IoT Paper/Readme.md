@@ -1,4 +1,6 @@
 # Internet of Thing Papers
+[toc]
+
 This is a list of Internet of Thing related papers.
 
 ## Contents
