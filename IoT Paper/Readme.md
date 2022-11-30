@@ -4,16 +4,18 @@ This is a list of Internet of Thing related papers.
 ## Contents
 - [Papers]
   - [Survey]
-  - [Video] 
+  - [Video]
   - [Resource Management]
   - [Federated Learning]
+  - [Multi-armed Band]
+  - [Reinforcement Learning]
+  - [Digital Twin]
   - [Others]
 
 ### Survey
 1.Y. Li, J. Fan, Y. Wang and K. -L. Tan, "Influence Maximization on Social Graphs: A Survey," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 10, pp. 1852-1872, 1 Oct. 2018, doi: 10.1109/TKDE.2018.2807843.
-
+。
 2.Alcaraz, C., & Lopez, J. (2022). Digital Twin: A Comprehensive Survey of Security Threats. IEEE Communications Surveys & TutorialsDigital Twinsurvey，digital twin
-
 
 ### Video
 1.NSDI22 Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers
@@ -30,7 +32,6 @@ This is a list of Internet of Thing related papers.
 
 7.Khani M, Ananthanarayanan G, Hsieh K, et al. RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics[J].
 
-
 ### Resource Management
 1.L. Huang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks," in IEEE Transactions on Mobile Computing, vol. 19, no. 11, pp. 2581-2593, 1 Nov. 2020, doi: 10.1109/TMC.2019.2928811.
 
@@ -45,7 +46,6 @@ This is a list of Internet of Thing related papers.
 6.ReLoca: Optimize Resource Allocation for Data-parallel Jobs using Deep Learning.Zhiyao Hu; Dongsheng Li; Dongxiang Zhang; Yixin Chen(infocom 2020)
 
 7.Khani M, Ananthanarayanan G, Hsieh K, et al. RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics[J].
-
 
 ### Federated Learning
 1.M. H. u. Rehman, A. M. Dirir, K. Salah, E. Damiani and D. Svetinovic, "TrustFed: A Framework for Fair and Trustworthy Cross-Device Federated Learning in IIoT," in IEEE Transactions on Industrial Informatics, vol. 17, no. 12, pp. 8485-8494, Dec. 2021, doi: 10.1109/TII.2021.3075706.
@@ -88,7 +88,26 @@ This is a list of Internet of Thing related papers.
 
 20.Chen, Daoyuan, et al. "pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning." arXiv preprint arXiv:2206.03655 (2022). benchmark，federatedscope，NIPS22
 
-## Others
+### Multi-armed Band
+1. A Contextual Bandit Bake-off(Journal of Machine Learning Research)
+
+### Reinforcement Learning
+1.Z. Yu, W. Liu, X. Liu and G. Wang, "Drag-JDEC: A Deep Reinforcement Learning and Graph Neural Network-based Job Dispatching Model in Edge Computing," 2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS), 2021, pp. 1-10, doi: 10.1109/IWQOS52092.2021.9521327.
+
+2.T. Huang, C. Zhou, R. -X. Zhang, C. Wu and L. Sun, "Learning Tailored Adaptive Bitrate Algorithms to Heterogeneous Network Conditions: A Domain-Specific Priors and Meta-Reinforcement Learning Approach," in IEEE Journal on Selected Areas in Communications, vol. 40, no. 8, pp. 2485-2503, Aug. 2022
+
+3.L. Huang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks," in IEEE Transactions on Mobile Computing, vol. 19, no. 11, pp. 2581-2593, 1 Nov. 2020, doi: 10.1109/TMC.2019.2928811.
+
+4. Efroni Y, Foster D J, Misra D, et al. Sample-Efficient Reinforcement Learning in the Presence of Exogenous Information[J]. arXiv preprint arXiv:2206.04282, 2022. Citation:4.
+
+5. Liu Q, Szepesvári C, Jin C. Sample-Efficient Reinforcement Learning of Partially Observable Markov Games[J]. Neural Information Processing Systems (NIPS) 2022. Citation:1.
+
+### Digital Twin
+1.Alcaraz, C., & Lopez, J. (2022). Digital Twin: A Comprehensive Survey of Security Threats. IEEE Communications Surveys & TutorialsDigital Twinsurvey，digital twin
+
+2.Montavon, G., Samek, W., & Müller, K. R. (2018). Methods for interpreting and understanding deep neural networks. Digital signal processing, 73, 1-15.
+
+### Others
 1.Wang, Hao, et al. "Optimizing federated learning on non-iid data with reinforcement learning." IEEE INFOCOM 2020-IEEE Conference on Computer Communications. IEEE, 2020.
 
 2.Xia Z, Zhou Y, Yan F Y, et al. Genet: automatic curriculum generation for learning adaptation in networking[C]//Proceedings of the ACM SIGCOMM 2022 Conference. 2022: 397-413. 。
@@ -125,7 +144,7 @@ This is a list of Internet of Thing related papers.
 
 20.nsdi22：In-Network Velocity Control of Industrial Robot Arms
 
-21.[1] Zhang K, Yang Z, Liu H, et al. Finite-sample analysis for decentralized batch multiagent reinforcement learning with networked agents[J]. IEEE Transactions on Automatic Control, 2021, 66(12): 5925-5940. Citation：31.
+21. Zhang K, Yang Z, Liu H, et al. Finite-sample analysis for decentralized batch multiagent reinforcement learning with networked agents[J]. IEEE Transactions on Automatic Control, 2021, 66(12): 5925-5940. Citation：31.
 
 22.B. Chen and C. Yang, "Caching Policy for Cache-Enabled D2D Communications by Learning User Preference," in IEEE Transactions on Communications, vol. 66, no. 12, pp. 6586-6601, Dec. 2018, doi: 10.1109/TCOMM.2018.2863364.
 
@@ -243,10 +262,6 @@ This is a list of Internet of Thing related papers.
 
 86.CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming
 
-87.Q Zhou, R Li, S Guo, Y Liu, J Guo, Z Xu
-
-88.arXiv preprint arXiv:2211.08428 - 5 days ago
-
 89.Hosseinalipour S, Azam S S, Brinton C G, et al. Multi-stage hybrid federated learning over large-scale D2D-enabled fog networks[J]. IEEE/ACM Transactions on Networking, 2022.
 
 90.Yang Z, Nahrstedt K, Guo H, et al. Deeprt: A soft real time scheduler for computer vision applications on the edge[C]//2021 IEEE/ACM Symposium on Edge Computing (SEC). IEEE, 2021: 271-284.
@@ -274,5 +289,5 @@ This is a list of Internet of Thing related papers.
 101. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning ICML2022
 
 # Contributor List
-Thanks for the contribution of all members from "物联网论文分享群". Please contact me if I missed to add any contributor.
+Thanks for the contribution of all members (Xiangchun， LiYunzhe，绿橘子、齐得隆咚锵、 徐爱昆、刘森标、啦啦啦～、TokTokiCQQ1—、 伊萨尔河畔、Junhua-CUHK-VR/Networking,月白~、 Librarian、 ROY、健康、谢鑫、 Kawai，签竹讼、蒲中柱、天洋行空、熊熊先森、 问号、JC、coco， frontop137, import torch as tensorflow,D.Q.、StrongBob、周大蒜。、 ZHOU Qihua，123) from "物联网论文分享群". Please contact me if I missed to add any contributor.
 ![](https://github.com/XiangchunChen/AIoT-Paper/blob/master/IoT%20Paper/Doc1.PNG)
