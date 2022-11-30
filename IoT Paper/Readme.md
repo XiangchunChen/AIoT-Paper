@@ -1,18 +1,17 @@
 # Internet of Thing Papers
-[toc]
 
 This is a list of Internet of Thing related papers.
 
 ## Contents
 - [Papers]
-  - [Survey]
-  - [Video]
-  - [Resource Management]
-  - [Federated Learning]
-  - [Multi-armed Band]
-  - [Reinforcement Learning]
-  - [Digital Twin]
-  - [Others]
+  - [Survey](Survey)
+  - [Video](Video)
+  - [Resource Management](Resource-Management)
+  - [Federated Learning](Federated-Learning)
+  - [Multi-armed Band](Multi-armed-Band)
+  - [Reinforcement Learning](Reinforcement-Learning)
+  - [Digital Twin](Digital-Twin)
+  - [Others](Others)
 
 ### Survey
 1.Y. Li, J. Fan, Y. Wang and K. -L. Tan, "Influence Maximization on Social Graphs: A Survey," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 10, pp. 1852-1872, 1 Oct. 2018, doi: 10.1109/TKDE.2018.2807843.
